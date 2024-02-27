@@ -1,0 +1,6 @@
+# # collect interval
+# interval = 15
+
+# # collected filesystem
+filesystem = "overlay"
+
